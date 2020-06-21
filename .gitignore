@@ -1,4 +1,4 @@
 node_modules
-.DS_Store
-.tar.gz
-.pdf
+*.DS_Store
+*.tar.gz
+*.pdf
